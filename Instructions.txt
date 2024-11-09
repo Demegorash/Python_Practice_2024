@@ -1,0 +1,20 @@
+Hi, My name is Demegorash, just learning to program.
+
+I am following the videos from Bro Code https://www.youtube.com/watch?v=ix9cRaBkVe0
+
+Python Full Course for free 🐍 (2024)
+
+All credits for him and thanks a lot for all data provided.
+
+I am doing this files just to get the data as a practice and to share and make it accesible for all people.
+
+Lets start to practice.
+
+Step 1
+How to comment in Python with # and ''' There is a comment here in '''
+How to use the command print in order to show on screen a string.
+It could be with "" and '' (I do like to use "")
+
+Step 2
+Variable =  A container for a value (string, integer, float, boolean).
+A Variable behaves as if it was a value it contains
