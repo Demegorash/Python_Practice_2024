@@ -18,3 +18,9 @@ It could be with "" and '' (I do like to use "")
 Step 2
 Variable =  A container for a value (string, integer, float, boolean).
 A Variable behaves as if it was a value it contains
+
+Step 3
+Typecasting =  The process of converting a Variable from one data type to another for example str(), int(), float(), bool()
+
+Step 4
+input() = A function that prompts the user to enter data.  It returns the entered data as a string.
