@@ -27,3 +27,7 @@ input() = A function that prompts the user to enter data.  It returns the entere
 
 Step 5
 Madlibs game.  This is an exercise by doing a game.  The objective of the game is to create a story by filling blanks random words.
+
+Step 6
+We are going to check some arithmetic and math code in Python.
+Arithhmeic and math
