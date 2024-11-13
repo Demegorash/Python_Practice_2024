@@ -31,3 +31,6 @@ Madlibs game.  This is an exercise by doing a game.  The objective of the game i
 Step 6
 We are going to check some arithmetic and math code in Python.
 Arithhmeic and math
+
+Step 7
+if = do some code only IF some condition is True, else do something else
