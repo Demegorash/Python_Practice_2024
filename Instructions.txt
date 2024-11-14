@@ -34,3 +34,6 @@ Arithhmeic and math
 
 Step 7
 if = do some code only IF some condition is True, else do something else
+
+Step 8
+We are going to build a Python Calculator
