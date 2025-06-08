@@ -54,3 +54,6 @@ Step 12
 conditional expressions = A one line shortcut for the if else statement (known as ternary operator).
 Print or assign one of two values based on a condition.
 X id condition else Y
+
+Step 13
+string methods = strings are just series of characters we can add in between quotes (simple or double quotes are valid for it)
