@@ -57,3 +57,12 @@ X id condition else Y
 
 Step 13
 string methods = strings are just series of characters we can add in between quotes (simple or double quotes are valid for it)
+
+Step 14
+indexing =  accessing elements of a sequence using [] (known as the indexing operator [start : end : step])
+
+Step 15
+format specifiers = {:flag} format a value based on what flags are inserted
+
+Step 16
+while loop =  execute some code WHILE some condition remains True
