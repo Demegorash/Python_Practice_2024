@@ -66,3 +66,12 @@ format specifiers = {:flag} format a value based on what flags are inserted
 
 Step 16
 while loop =  execute some code WHILE some condition remains True
+
+Step 17
+Python Compound Interest Calculator
+
+Step 18
+for loops = Execute a block of code a fixed number of times.  It can be usefull in order to iterate over a range, string, sequence, etc.
+
+Step 19
+Countdown Timer Program.  Lets create a counter.
