@@ -92,3 +92,27 @@ We are going to create a shopping cart program
 
 Step 23
 2D collections = This is a list made off of lists
+
+Step 24
+We are going to create a Quiz game
+
+Step 25
+dictionary = a collection of {key:value} pairs and are ordered and changeable.  It does not accept duplicates.
+
+Step 26
+Concession stand program in order to help us to understand dictionaries
+
+Step 27
+Creating random numbers
+
+Step 28
+Lets create a # guessing game in order to better understand the random module section
+
+Step 29
+Rock, paper, scissors game in order to better understand the random module
+
+Step 30
+We are creating a dice roller program in order to better understand the random module
+
+Step 31
+function = It is a block of reusable code.  We add () after the function name in order to invoke it
