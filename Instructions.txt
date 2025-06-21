@@ -75,3 +75,20 @@ for loops = Execute a block of code a fixed number of times.  It can be usefull 
 
 Step 19
 Countdown Timer Program.  Lets create a counter.
+
+Step 20
+nested loops = This means a loop inside another loop (outer, inner)
+    outer loop:
+        inner loop:
+
+Step 21
+collecion = single "variable" used to store multiple values
+List = [] Ordered and changeable.  Duplicates are OK
+Set = {} unordered and immutable, but add/remove are OK.  No Duplicates
+Tuple = () Ordered and unchangeable.  Dupicates are OK. Faster
+
+Step 22
+We are going to create a shopping cart program
+
+Step 23
+2D collections = This is a list made off of lists
