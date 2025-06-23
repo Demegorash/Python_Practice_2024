@@ -116,3 +116,12 @@ We are creating a dice roller program in order to better understand the random m
 
 Step 31
 function = It is a block of reusable code.  We add () after the function name in order to invoke it
+
+Step 31
+default arguments = It is a value for certain parameters and it can be used with the argument is ommited in order to make the function more flexible.  1. positional, 2. default, 3. keyword, 4. arbitrary. This time we are going to check 1. positional, 2. default
+
+Step 32
+default arguments = It is a value for certain parameters and it can be used with the argument is ommited in order to make the function more flexible.  1. positional, 2. default, 3. keyword, 4. arbitrary. This time we are going to check 3. keyword
+
+Step 33
+default arguments = It is a value for certain parameters and it can be used with the argument is ommited in order to make the function more flexible.  1. positional, 2. default, 3. keyword, 4. arbitrary. This time we are going to check 4. arbitrary  *args = allows you to pass multiple non-keywords.  **kwargs = allows you to pass multiple keyword-arguments and there is invoked with the unpacking operator * or **
