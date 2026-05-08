@@ -125,3 +125,12 @@ default arguments = It is a value for certain parameters and it can be used with
 
 Step 33
 default arguments = It is a value for certain parameters and it can be used with the argument is ommited in order to make the function more flexible.  1. positional, 2. default, 3. keyword, 4. arbitrary. This time we are going to check 4. arbitrary  *args = allows you to pass multiple non-keywords.  **kwargs = allows you to pass multiple keyword-arguments and there is invoked with the unpacking operator * or **
+
+Step 34
+default arguments = It is a value for certain parameters and it can be used with the argument is ommited in order to make the function more flexible. Arbitrary arguments *args and **kwargs = keyword arguments.  4. arbitrary  *args = allows you to pass multiple non-keywords.  **kwargs = allows you to pass multiple keyword-arguments and there is invoked with the unpacking operator * or **
+
+Step 35
+Iterables = An object/collection that can return its elements one at the time, allowing it to be iterated over in a loop
+
+Step 36
+Membership operators = Used to test wheter a value or variable is found in a secuence (string, list, tuple, set or dictionary). It has 2 modes > 1.in 2.not in
