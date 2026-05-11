@@ -134,3 +134,19 @@ Iterables = An object/collection that can return its elements one at the time, a
 
 Step 36
 Membership operators = Used to test wheter a value or variable is found in a secuence (string, list, tuple, set or dictionary). It has 2 modes > 1.in 2.not in
+
+Step 37
+List comprehension = A concise way to create lists in Python. Those are compact and easier to read than tradional loops (expression for value in iterable if condition)
+
+Step 38
+Match-case statement (switch): an alternative to using many 'elif' statements.  Execute some code if a value matches a 'case'.  Benefits: Cleaner an syuntax is more readable
+
+Step 39
+Module = A module is a file containing code you want to include in your program. For using it, use 'import' to include a module (built-in your own).  It is usefull to break up a large program reusable separate files.
+
+Step 40
+Variable scope = where a variable is visible and accessible.
+scope resolution = (LEGB) Local -> Enclosed -> Global -> built-in
+
+Step 41
+if __name__ == __main__: this script can be importe or run standalone. Functions and classes in this module can be reused without the main block of code execution
