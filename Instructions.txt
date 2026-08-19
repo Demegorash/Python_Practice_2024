@@ -149,4 +149,7 @@ Variable scope = where a variable is visible and accessible.
 scope resolution = (LEGB) Local -> Enclosed -> Global -> built-in
 
 Step 41
-if __name__ == __main__: this script can be importe or run standalone. Functions and classes in this module can be reused without the main block of code execution
+if __name__ == __main__: this script can be importe or run standalone. Functions and classes in this module can be reused without the main block of code execution. This is a good practice as the code is modular, leaves no global variables and avoid unintended execution.
+
+Step 42
+Simple banking program.  This is going to be and exercise to make us work with functions.
